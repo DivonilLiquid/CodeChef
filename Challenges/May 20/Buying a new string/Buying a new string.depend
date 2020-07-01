@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588690773 source:c:\users\meena\desktop\codechef code\challenges\may 20\buying a new string\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstring>
+	<utility>
+
