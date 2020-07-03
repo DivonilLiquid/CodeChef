@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585145884 source:c:\users\meena\desktop\codechef code\practice\valid parentheses\main.cpp
+	<iostream>
+	<stack>
+
